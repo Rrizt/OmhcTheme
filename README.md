@@ -1,4 +1,4 @@
-# Nook Theme
+# Omhc Theme
 NookTheme is a free and open source [Pterodactyl theme](https://pterodactyl.io) designed to be simple, clean, and modern.
 
 ![Image](https://i.imgur.com/AFjHGBr.png)
@@ -73,7 +73,7 @@ the release archive for the most recent version of Pterodactyl, save it in the c
 unpack the archive into your current folder.
 
 ```bash
-curl -L https://github.com/Nookure/NookTheme/releases/latest/download/panel.tar.gz | tar -xzv
+curl -L https://github.com/Rrizt/OmhcTheme/tree/main/download/panel.tar.gz | tar -xzv
 ```
 
 Once all of the files are downloaded we need to set the correct permissions on the cache and storage directories to avoid
